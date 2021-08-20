@@ -1,0 +1,5 @@
+Flask~=2.0.1
+WTForms~=2.3.3
+Werkzeug~=2.0.1
+pydub~=0.25.1
+moviepy~=1.0.3
